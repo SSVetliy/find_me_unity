@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" GroupingSetting="Access" MembersFormat="NameAndType">
+  <Class Name="GameController">
+    <Position X="19.25" Y="5.75" Width="3" />
+    <TypeIdentifier>
+      <HashCode>gEQpgQAAASJAEGADSEVEDKJQQQAkAIMDQAAIAEBhIZU=</HashCode>
+      <FileName>Assets\Scripts\GameController.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_player" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Field Name="_cards" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="PlayerProperty">
+    <Position X="12" Y="5.75" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAFAAIAIAAAAAQBIIAQAAQgAQoAAOAYBAEgEAA=</HashCode>
+      <FileName>Assets\Scripts\PlayerProperty.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="saveManager" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="SaveManager">
+    <Position X="16.5" Y="5.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAgIAAACAAAAAAAAAAAAAAEAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\SaveManager.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="player" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="SaveData">
+    <Position X="7.25" Y="13.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAABAAAAIAAAAAQBAAAAAAAAAAgAAIAQBAAgAAA=</HashCode>
+      <FileName>Assets\Scripts\SaveManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnityEngine.MonoBehaviour" Collapsed="true">
+    <Position X="14.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Object" Collapsed="true">
+    <Position X="7.25" Y="12.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="CardController">
+    <Position X="7.75" Y="5.75" Width="3.5" />
+    <Members>
+      <Field Name="sound" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>CAQCAFiABCBAEAAAAAAAABAAAEAkACIAIAAgAAJACgA=</HashCode>
+      <FileName>Assets\Scripts\CardController.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_gameController" />
+    </ShowAsAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

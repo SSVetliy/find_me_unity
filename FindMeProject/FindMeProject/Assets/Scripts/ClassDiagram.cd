@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="AllBackground" Collapsed="true">
+    <Position X="2" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAIAA=</HashCode>
+      <FileName>Assets\Scripts\AllBackground.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AllCards" Collapsed="true">
+    <Position X="8.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAEAgAAAAIAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\AllCards.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AllLevels" Collapsed="true">
+    <Position X="13.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\AllLevels.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AllShirt" Collapsed="true">
+    <Position X="22.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\AllShirt.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AssetCard" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="5.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAAEABAAAAAABAAAAAAABEAAAAAAgA=</HashCode>
+      <FileName>Assets\Scripts\AssetCard.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BackgroundProductProperty" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="1" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgABAAAAAAAAAAAAAABAAAAAABAAQAAAAAEAAAAAAhA=</HashCode>
+      <FileName>Assets\Scripts\BackgroundProductProperty.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="CardController" Collapsed="true">
+    <Position X="11" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAQCAFiABCBAEAAAAAAAABAAAEAkACIAIAAgAAJACgA=</HashCode>
+      <FileName>Assets\Scripts\CardController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChooseItemtController" Collapsed="true">
+    <Position X="15.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAICACAAAAAABAkAAABAAAAAAAAJAAAAAAAACgA=</HashCode>
+      <FileName>Assets\Scripts\ChooseItemtController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameController" Collapsed="true">
+    <Position X="24.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gEQpgQAAASJAEGADSEVEDKJQQQAkAIMDQAAIAEBhIZU=</HashCode>
+      <FileName>Assets\Scripts\GameController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LevelProperty" Collapsed="true">
+    <Position X="31.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQQBAAAAQCBAAAAAAABgACAAAACAAAIAAAAAAAAAAgE=</HashCode>
+      <FileName>Assets\Scripts\LevelProperty.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MusicController" Collapsed="true">
+    <Position X="4.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAIAAAAAAAAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\MusicController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyList" Collapsed="true">
+    <Position X="0.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAAAAIAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\PlayerProperty.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerProperty" Collapsed="true">
+    <Position X="17.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAFAAIAIAAAAAQBAIAQAAQgAQoAAOAYBAEgEAA=</HashCode>
+      <FileName>Assets\Scripts\PlayerProperty.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProductShopController" Collapsed="true">
+    <Position X="26.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAgQAAAAAAAAAAAAABACAAAAAAEAAIAAAAAAAAQAAA=</HashCode>
+      <FileName>Assets\Scripts\ProductShopController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SaveManager" Collapsed="true">
+    <Position X="6.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgIAAACAAAAAAAAAAAAAAEAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\SaveManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SaveData" Collapsed="true">
+    <Position X="3" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAABAAAAIAAAAAQBAAAAAAAAAAgAAIAQBAAgAAA=</HashCode>
+      <FileName>Assets\Scripts\SaveManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShirtProductProperty" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="3.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgABAAAAAAAAAAAAAABAAAAAABAAAAAAAAEAAAAAAgA=</HashCode>
+      <FileName>Assets\Scripts\ShirtProductProperty.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="SoundController" Collapsed="true">
+    <Position X="20" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQABgACACAAAQAAAAAIAAAAAAAAkAAAAAAACAAAEAA=</HashCode>
+      <FileName>Assets\Scripts\SoundController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StartSceneController" Collapsed="true">
+    <Position X="29" Y="2" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>gggQBoZggKDCEIQCgBEAEAh8QYAMiAArIAAsBBQgCCA=</HashCode>
+      <FileName>Assets\Scripts\StartSceneController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnityEngine.MonoBehaviour" Collapsed="true">
+    <Position X="16.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Object" Collapsed="true">
+    <Position X="2" Y="6.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="UnityEngine.ScriptableObject" Collapsed="true">
+    <Position X="3.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Interface Name="ICard" Collapsed="true">
+    <Position X="9.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Assets\Scripts\AssetCard.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="IBackgroundProduct" Collapsed="true">
+    <Position X="7.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAAAAABAAQAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Assets\Scripts\BackgroundProductProperty.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="IShirtProduct" Collapsed="true">
+    <Position X="7.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Assets\Scripts\ShirtProductProperty.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

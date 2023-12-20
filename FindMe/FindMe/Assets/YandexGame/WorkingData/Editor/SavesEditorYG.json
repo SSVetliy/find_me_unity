@@ -1,0 +1,16 @@
+{
+    "idSave": 69,
+    "isFirstSession": false,
+    "language": "ru",
+    "promptDone": false,
+    "myList": "{\"Cards\":[{\"instanceID\":0},{\"instanceID\":0},{\"instanceID\":25182},{\"instanceID\":25282},{\"instanceID\":0},{\"instanceID\":25134},{\"instanceID\":0},{\"instanceID\":0},{\"instanceID\":25124},{\"instanceID\":0},{\"instanceID\":0},{\"instanceID\":0},{\"instanceID\":0},{\"instanceID\":25160},{\"instanceID\":25256},{\"instanceID\":0},{\"instanceID\":0},{\"instanceID\":0},{\"instanceID\":0},{\"instanceID\":0},{\"instanceID\":0},{\"instanceID\":0}],\"Shirts\":[{\"instanceID\":0},{\"instanceID\":0},{\"instanceID\":0},{\"instanceID\":25314}],\"Background\":[{\"instanceID\":0},{\"instanceID\":0},{\"instanceID\":0},{\"instanceID\":0}]}",
+    "curShirtId": 9,
+    "curBackgroundId": 6,
+    "countFlipCard": 0,
+    "countAddStep": 0,
+    "countAddTime": 0,
+    "countViewAll": 0,
+    "countCoin": 0,
+    "countKey": 0,
+    "openLevels": 0
+}
